@@ -45,7 +45,7 @@ emoji_dist = {
 # Initialize the Tkinter window
 window = tk.Tk()
 window.title("Emotion Detection")
-window.geometry("900x600")
+window.geometry("900x600+{}+{}".format(int(window.winfo_screenwidth() / 2 - 450), int(window.winfo_screenheight() / 2 - 300)))
 window.configure(bg="#f0f0f0")
 
 # Create a title heading
