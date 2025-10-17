@@ -1,6 +1,6 @@
 # EmoSense
 
-EmoSense is an intelligent sentiment analysis tool designed to analyze text and provide a detailed emotional breakdown. It leverages advanced machine learning algorithms to determine the overall emotional tone of text input, enabling users to gain insights into the sentiments expressed.
+EmoSense is an intelligent sentiment analysis tool designed to analyze real time video and provide a detailed emotional breakdown. It leverages advanced machine learning algorithms to determine the overall emotional tone of text input, enabling users to gain insights into the sentiments expressed.
 
 ## Features
 - **Accurate Sentiment Detection**: Analyzes input text to determine emotional tones such as joy, sadness, anger, and more.
